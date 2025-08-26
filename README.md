@@ -10,20 +10,18 @@ We built VISTA (Visually Impaired Banking Service Agents Transformer Assistant),
 The system features a Flask backend with secure API endpoints and a frontend built using HTML, CSS, and JavaScript, optimized for accessibility and screen reader support. It enables real-time communication, automates routine workflows, and delivers accurate, context-aware responses while maintaining data security.By combining Python-based AI models, STT/TTS capabilities, and an accessible UI, VISTA reduces manual effort, enhances efficiency, and provides inclusive, AI-driven banking support for visually impaired service agents.
 
 ## Tech Stack
-   ### Frontend :
-       - HTML5, CSS3, JavaScript
-       - Tailwind CSS
-       - Web Speech API (SpeechRecognition & SpeechSynthesis)
-  ### Backend :
-      - Python Flask
-      - SQLite
-      - Axios for API Communication
-### Transformers :
-    Hugging Face Transformers (all-MiniLM-L6-v2)
-    
-
-
-
-
-
+   **Frontend :**
+       HTML, CSS, JavaScript
+       Tailwind CSS
+       Web Speech API (SpeechRecognition & SpeechSynthesis)
        
+  **Backend :**
+      Python Flask
+      SQLite
+      Axios for API Communication
+      
+**Transformers :**
+    Hugging Face Transformers (all-MiniLM-L6-v2)
+      
+## Workflow :
+![WhatsApp Image 2025-08-26 at 17 19 54](https://github.com/user-attachments/assets/7f159fb0-7cf3-428e-81b1-3ec69af752e7)
