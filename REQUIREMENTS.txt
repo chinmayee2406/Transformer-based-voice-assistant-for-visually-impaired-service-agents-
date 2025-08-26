@@ -1,0 +1,13 @@
+flask
+numpy
+pandas
+torch
+transformers
+sentence-transformers
+SpeechRecognition
+gTTS
+pyttsx3
+nltk
+clean-text
+sqlite-utils
+requests
